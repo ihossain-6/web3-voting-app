@@ -1,3 +1,9 @@
+### This is a voting project
+
+It uses the prebuilt thirdweb contracts. Isn't customized a lot.
+
+
+(These were given by thirdweb)
 ## Getting Started
 
 Create a project using this example:
